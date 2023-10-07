@@ -23,7 +23,7 @@
 
 
 ### Demo Screenshot
-[](./Screenshot.png)
+![Screenshot](Screenshot.png "Demo")
 
 ### Docker Screenshot
-[](./Screenshot-docker.png)
+![Screenshot](Screenshot-docker.png "Demo")
