@@ -20,3 +20,10 @@
 - Take a screenshot of your to-do list.
 - **Create a Github action(CICD) that automates the whole containerisation process.** (Recommend stages to include **Docker build, Push Docker Image to Docker Hub**)
 - Raise the PR with your to-do list screenshot.
+
+
+### Demo Screenshot
+[](Screenshot.png)
+
+### Docker Screenshot
+[](Screenshot-docker.png)
